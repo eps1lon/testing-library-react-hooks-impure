@@ -1,0 +1,15 @@
+{
+  "name": "testing-library-react-hooks-impure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@testing-library/react-hooks": "^5.0.0",
+    "jsdom": "^16.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
